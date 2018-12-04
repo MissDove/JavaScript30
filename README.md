@@ -1,7 +1,7 @@
 Working through JavaScript30, which is a 30-day JavaScript Challenge.
 
 1. JavaScript DrumKit
-2. CSS + JS Clock
+2. JS + CSS Clock
 3. Playing with CSS Variables and JS
 4. Array Cardio Day 1
 5. Flex Panels Image Gallery
@@ -24,9 +24,9 @@ Working through JavaScript30, which is a 30-day JavaScript Challenge.
 22. Follow Along Links
 23. Speech Synthesis
 24. Sticky Nav
-25.Event Capture, Propagation, Bubbling and Once
-26. Stripe Follow Along Dropdown
-27. Click and Drag to Scroll
-28. Video Speed Controller UI
-29. Countdown Clock
-30. Whack A Mole Game
+    25.Event Capture, Propagation, Bubbling and Once
+25. Stripe Follow Along Dropdown
+26. Click and Drag to Scroll
+27. Video Speed Controller UI
+28. Countdown Clock
+29. Whack A Mole Game
